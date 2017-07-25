@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "allure-nunit3", "allure-nunit3\allure-nunit3.csproj", "{90303380-8520-4BA2-B036-0B078B793C25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "allure-nunit3-tests", "allure-nunit3-tests\allure-nunit3-tests.csproj", "{07B002A2-5B8E-4A94-9A72-DD474510AFF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{90303380-8520-4BA2-B036-0B078B793C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90303380-8520-4BA2-B036-0B078B793C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90303380-8520-4BA2-B036-0B078B793C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B002A2-5B8E-4A94-9A72-DD474510AFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B002A2-5B8E-4A94-9A72-DD474510AFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B002A2-5B8E-4A94-9A72-DD474510AFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B002A2-5B8E-4A94-9A72-DD474510AFF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

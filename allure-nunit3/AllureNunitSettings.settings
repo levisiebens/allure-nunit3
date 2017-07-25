@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="allure_nunit3" GeneratedClassName="AllureNunitSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OutputLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test-output</Value>
+    </Setting>
+    <Setting Name="AllowEmptySuites" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="WriteLogs" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
